@@ -1,0 +1,9 @@
+INSERT INTO category (description) VALUES ('American');
+INSERT INTO category (description) VALUES ('Indian');
+INSERT INTO category (description) VALUES ('Chinese');
+INSERT INTO category (description) VALUES ('Mexican');
+INSERT INTO unit_of_measure (description) VALUES ('Cup');
+INSERT INTO unit_of_measure (description) VALUES ('Glass');
+INSERT INTO unit_of_measure (description) VALUES ('TeaSpoon');
+INSERT INTO unit_of_measure (description) VALUES ('TableSpoon');
+INSERT INTO unit_of_measure (description) VALUES ('Pinch');
